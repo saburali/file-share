@@ -1,0 +1,1965 @@
+{
+  "sec_title": "Portfolio",
+  "destination": "home",
+  "btn_txt": "Home",
+  "sub_title": "By clicking on the item according to the category, you will see the detailed information of the project",
+  "portfolioItems": [
+    {
+      "id": 1,
+      "thumbTitle": "01 Items",
+      "projectName": "Project Name 01",
+      "image": "https://i.ibb.co/njGc29L/1.jpg",
+      "imageAlt": "Image 1",
+      "category": "backend",
+      "projectTags": [
+        "arduino",
+        "electronic"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Chargviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Java",
+              "url": "#Java"
+            },
+            {
+              "tag": "React",
+              "url": "#React"
+            },
+            {
+              "tag": "VueJS",
+              "url": "#VueJS"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactJS",
+              "url": "#ReactJS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "thumbTitle": "02 Items",
+      "projectName": "Project Name 02",
+      "image": "https://i.ibb.co/1rFVcgD/2.jpg",
+      "imageAlt": "Image 2",
+      "category": "backend",
+      "link": "#2",
+      "projectTags": [
+        "arduino",
+        "electronic"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascript",
+              "url": "#Javacript"
+            },
+            {
+              "tag": "React",
+              "url": "#React"
+            },
+            {
+              "tag": "okk",
+              "url": "#okk"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactJS",
+              "url": "#ReactJS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "thumbTitle": "03 Items",
+      "projectName": "Project Name 03",
+      "image": "https://i.ibb.co/R9jBR7V/3.jpg",
+      "imageAlt": "Image 3",
+      "category": "iot",
+      "link": "#3",
+      "projectTags": [
+        "arduino",
+        "electronic"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "ci",
+              "url": "#ci"
+            },
+            {
+              "tag": "Javascript",
+              "url": "#Javacript"
+            },
+            {
+              "tag": "React",
+              "url": "#React"
+            },
+            {
+              "tag": "gu",
+              "url": "#gu"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactJS",
+              "url": "#ReactJS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "thumbTitle": "04 Items",
+      "projectName": "Project Name 04",
+      "image": "https://i.ibb.co/BVndjy5/4.png",
+      "imageAlt": "Image 4",
+      "category": "electronics",
+      "link": "#4",
+      "projectTags": [
+        "arduino",
+        "electronic"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "thumbTitle": "05 Items",
+      "projectName": "Project Name 05",
+      "image": "https://i.ibb.co/025gbw3/5.jpg",
+      "imageAlt": "Image 5",
+      "category": "backend",
+      "link": "#5",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে।করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascript",
+              "url": "#Javacript"
+            },
+            {
+              "tag": "C",
+              "url": "#C"
+            },
+            {
+              "tag": "ueJS",
+              "url": "#ueJS"
+            },
+            {
+              "tag": "C++",
+              "url": "#C++"
+            },
+            {
+              "tag": "eactJS",
+              "url": "#eactJS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "thumbTitle": "06 Items",
+      "projectName": "Project Name 06",
+      "image": "https://i.ibb.co/vmpYCjM/6.jpg",
+      "imageAlt": "Image 6",
+      "category": "frontend",
+      "link": "#6",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "thumbTitle": "07 Items",
+      "projectName": "Project Name 07",
+      "image": "https://i.ibb.co/GWrqhGk/7.jpg",
+      "imageAlt": "Image 7",
+      "category": "frontend",
+      "link": "#7",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "thumbTitle": "08 Items",
+      "projectName": "Project Name 08",
+      "image": "https://i.ibb.co/LdJLfHn/8.jpg",
+      "imageAlt": "Image 8",
+      "category": "iot",
+      "link": "#8",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "thumbTitle": "09 Items",
+      "projectName": "Project Name 09",
+      "image": "https://i.ibb.co/ZJ0NBJ3/9.jpg",
+      "imageAlt": "Image 9",
+      "category": "electronics",
+      "link": "#9",
+      "projectTags": ["html", "css", "javascript", "php", "react", "vuejs"],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": ["x", "y", "z"],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": ["img1", "img2", "img3", "img4", "img5", "img6", "img7", "img8", "https://i.ibb.co/b1s3Y29/12.jpg", "https://i.ibb.co/b1s3Y29/12.jpg", "https://i.ibb.co/3WtJK6n/15.jpg", "https://i.ibb.co/Zm76S2H/20.jpg", "https://i.ibb.co/rHHPWqy/21.jpg", "https://i.ibb.co/CWmQ598/14.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "thumbTitle": "10 Items",
+      "projectName": "Project Name 10",
+      "image": "https://i.ibb.co/WnB8g6Q/10.jpg",
+      "imageAlt": "Image 10",
+      "category": "iot",
+      "link": "#10",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "qwertyuikhbvcx",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "thumbTitle": "11 Items",
+      "projectName": "Project Name 11",
+      "image": "https://i.ibb.co/TR2MtFn/11.jpg",
+      "imageAlt": "Image 11",
+      "category": "frontend",
+      "link": "#11",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "asdfghjkl",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "thumbTitle": "12 Items",
+      "projectName": "Project Name 12",
+      "image": "https://i.ibb.co/b1s3Y29/12.jpg",
+      "imageAlt": "Image 12",
+      "category": "backend",
+      "link": "#12",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "dfghj567ujg ujk",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "thumbTitle": "13 Items",
+      "projectName": "Project Name 13",
+      "image": "https://i.ibb.co/6RpFKGR/13.jpg",
+      "imageAlt": "Image 13",
+      "category": "frontend",
+      "link": "#13",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "fasdf adxc afdgv",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "thumbTitle": "14 Items",
+      "projectName": "Project Name 14",
+      "image": "https://i.ibb.co/CWmQ598/14.jpg",
+      "imageAlt": "Image 14",
+      "category": "backend",
+      "link": "#14",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "af adfaddd f adf",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "thumbTitle": "15 Items",
+      "projectName": "Project Name 15",
+      "image": "https://i.ibb.co/3WtJK6n/15.jpg",
+      "imageAlt": "Image 15",
+      "category": "frontend",
+      "link": "#15",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "adf adf afd",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "thumbTitle": "16 Items",
+      "projectName": "Project Name 16",
+      "image": "https://i.ibb.co/5BBpggp/16.jpg",
+      "imageAlt": "Image 16",
+      "category": "backend",
+      "link": "#16",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "dfzfadcf adfa ",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "thumbTitle": "17 Items",
+      "projectName": "Project Name 17",
+      "image": "https://i.ibb.co/V3ccPJk/17.jpg",
+      "imageAlt": "Image 17",
+      "category": "frontend",
+      "link": "#17",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "wetdg ersdg srdf",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "thumbTitle": "18 Items",
+      "projectName": "Project Name 18",
+      "image": "https://i.ibb.co/pWxRQck/18.jpg",
+      "imageAlt": "Image 18",
+      "category": "iot",
+      "link": "#18",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "evtrtgvtf f gddt",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "thumbTitle": "19 Items",
+      "projectName": "Project Name 19",
+      "image": "https://i.ibb.co/nBf16gN/19.jpg",
+      "imageAlt": "Image 19",
+      "category": "frontend",
+      "link": "#19",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "fhg fvar",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "thumbTitle": "20 Items",
+      "projectName": "Project Name 20",
+      "image": "https://i.ibb.co/Zm76S2H/20.jpg",
+      "imageAlt": "Image 20",
+      "category": "graphics",
+      "link": "#20",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "dfdf esf esd",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "thumbTitle": "21 Items",
+      "projectName": "Project Name 21",
+      "image": "https://i.ibb.co/rHHPWqy/21.jpg",
+      "imageAlt": "Image 21",
+      "category": "frontend",
+      "link": "#21",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "dfs sfsf",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "thumbTitle": "22 Items",
+      "projectName": "Project Name 22",
+      "image": "https://i.ibb.co/znm3XC4/22.jpg",
+      "imageAlt": "Image 22",
+      "category": "graphics",
+      "link": "#22",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "fddsdsad",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "thumbTitle": "23 Items",
+      "projectName": "Project Name 23",
+      "image": "https://i.ibb.co/ckyBzwh/23.jpg",
+      "imageAlt": "Image 23",
+      "category": "graphics",
+      "link": "#23",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "afd adf adsffdfd dfdf",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "thumbTitle": "24 Items",
+      "projectName": "Project Name 24",
+      "image": "https://i.ibb.co/LzzJv0m/24.jpg",
+      "imageAlt": "Image 24",
+      "category": "iot",
+      "link": "#24",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "df asdf asdf a",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "thumbTitle": "25 Items",
+      "projectName": "Project Name 25",
+      "image": "https://i.ibb.co/d04YK9G/25.jpg",
+      "imageAlt": "Image 25",
+      "category": "graphics",
+      "link": "#25",
+      "projectTags": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "react",
+        "vuejs"
+      ],
+      "portfolioModal": [
+        {
+          "livePreview": "#",
+          "sourceCode": "#",
+          "companyName": "ITeach",
+          "startingDate": "15.07.2023",
+          "endingDate": "10.04.2025",
+          "challengingPart": [
+            "x",
+            "y",
+            "z"
+          ],
+          "myOpinion": "matha kharap kora project",
+          "durationOfEmployment": "10 Days, 07 Month, 01 Years",
+          "projectDes": "zrgdfc z",
+          "modalTags": [
+            {
+              "tag": "Html",
+              "url": "#Html"
+            },
+            {
+              "tag": "Css",
+              "url": "#Css"
+            },
+            {
+              "tag": "Javascrip",
+              "url": "#Javacrip"
+            },
+            {
+              "tag": "Reac",
+              "url": "#Reac"
+            },
+            {
+              "tag": "VueJ",
+              "url": "#VueJ"
+            },
+            {
+              "tag": "Angular",
+              "url": "#Angular"
+            },
+            {
+              "tag": "ReactS",
+              "url": "#ReactS"
+            }
+          ],
+          "projectScreenshots": [
+            "https://i.ibb.co/njGc29L/1.jpg",
+            "https://i.ibb.co/1rFVcgD/2.jpg",
+            "https://i.ibb.co/R9jBR7V/3.jpg",
+            "https://i.ibb.co/BVndjy5/4.png",
+            "https://i.ibb.co/025gbw3/5.jpg",
+            "https://i.ibb.co/vmpYCjM/6.jpg",
+            "https://i.ibb.co/GWrqhGk/7.jpg",
+            "https://i.ibb.co/LdJLfHn/8.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/b1s3Y29/12.jpg",
+            "https://i.ibb.co/3WtJK6n/15.jpg",
+            "https://i.ibb.co/Zm76S2H/20.jpg",
+            "https://i.ibb.co/rHHPWqy/21.jpg",
+            "https://i.ibb.co/CWmQ598/14.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
